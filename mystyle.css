@@ -1,5 +1,6 @@
 
 nav ul{
-list-style-type: none;
-color: coral;
+  list-style-type: none;
+  color: coral;
+  font-family: Tahoma, sans-serif; 
 }
