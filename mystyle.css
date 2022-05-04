@@ -3,4 +3,7 @@ nav ul{
   list-style-type: none;
   color: coral;
   font-family: Tahoma, sans-serif; 
+  position: fixed;
+  top: 100px; 
+  left: 0px;
 }
