@@ -1,4 +1,14 @@
 
+
+*{
+  box-sizing: border-box;
+}
+
+.navbutton{
+  height = 100px;
+  display: inline-block;
+}
+
 nav ul{
   list-style-type: none;
   color: coral;
